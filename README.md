@@ -1,14 +1,15 @@
 # Hi there, I'm Adhafa Joan Putranto! 👋
 
 ## About Me
-- 💬 Ask me about anything, I'm happy to help!
+- Major in Informatics at UPN Veteran Yogyakarta
 
-## Languages and Tools
-- Python --> Numpy, Flask, Django
-- JavaScript
-- HTML,CSS --> Bootstrap
+## Languages/Tools/Enthusiast
+- Data Science
+- AI
+- Python
+- R
 - PostgreSQL
-- VS Code
+- Tableau
 
 ## Connect with Me
 - 📧adhafajoanp9999@gmail.com
