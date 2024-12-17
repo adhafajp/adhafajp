@@ -7,8 +7,9 @@
 - Data Science
 - AI
 - Python
+- C++
 - R
-- PostgreSQL
+- PostgreSQL, MySQL
 - Tableau
 
 ## Connect with Me
