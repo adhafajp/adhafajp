@@ -31,7 +31,7 @@
 <div align="center">
 
 **End-to-end AI engineering project** with a complete MLOps pipeline  
-**QLoRA Fine-Tuning (Phi-2)** → **W&B Tracking** → **FastAPI inference server** → **Next.js frontend**
+**QLoRA Fine-Tuning (Phi-2)** → **W&B Tracking** → **FastAPI inference server** → **Frontend ChatWindow**
 
 <p>
 <a href="https://github.com/adhafajp/ZeroChat">
