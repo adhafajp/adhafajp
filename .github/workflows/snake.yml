@@ -13,8 +13,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: adhafajp
-          outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          outputs: |
+            dist/snake.svg
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
