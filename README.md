@@ -61,13 +61,28 @@
 
 ## ⚙️ AI Engineering & MLOps
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,docker,fastapi,linux" height="40"/>
-<br><br>
-<img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?logo=weightsandbiases&logoColor=black&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=azure,aws" height="40"/>
+
+  <!-- Core AI Stack -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" height="40" />
+
+  <br><br>
+
+  <!-- MLOps Essentials -->
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,githubactions,linux" height="40" />
+
+  <br><br>
+
+  <!-- Monitoring & Experiment Tracking -->
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?logo=weightsandbiases&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+  <br><br>
+
+  <!-- Cloud & Deployment -->
+  <img src="https://skillicons.dev/icons?i=aws,azure" height="40" />
+
 </div>
+
 
 ---
 
@@ -78,10 +93,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js" height="40"/>
 
 ### Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="40"/>
-
-### Additional Languages  
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" height="40"/>
 
 </div>
 
@@ -89,7 +101,7 @@
 
 ## 🗄️ Databases
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,mysql" height="40"/>
 </div>
 
 ---
@@ -97,7 +109,12 @@
 ## 🧰 Development Tools
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="40"/>
+  
+### Additional Languages  
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
 </div>
+
+
 
 ---
 
@@ -128,12 +145,23 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/NAMA-LINKEDIN-ANDA">
+<a href="https://www.linkedin.com/in/adhafa-jp">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:adhafajoanp9999@gmail.com">
+
+<a href="mailto:adhafa.j.p@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://discord.com/users/1208349707596730421">
+  <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/adhafaj_p_">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 </div>
@@ -143,3 +171,4 @@
 <div align="center">
   ⭐️ If you like my work, consider giving a star to the repositories!
 </div>
+
